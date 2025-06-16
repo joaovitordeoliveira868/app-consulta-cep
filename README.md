@@ -18,13 +18,21 @@ Um aplicativo simples e funcional feito com **React Native** e **Expo**, que per
 
 ## 📁 Estrutura de Pastas
 app-cep/
+
 ├── assets/ # Imagens e ícones
+
 ├── src/
+
 │ ├── components/ # Componentes reutilizáveis (InputText, ButtonLarge)
+
 │ ├── pages/ # Página principal (Home)
+
 │ └── services/ # Integração com a API de CEP
+
 ├── App.js # Ponto de entrada da aplicação
+
 ├── app.json # Configuração do Expo
+
 └── package.json # Dependências do projeto
 
 
